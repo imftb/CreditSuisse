@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditSuisse.Console", "CreditSuisse.Console.csproj", "{48D82BB9-668B-4FFF-9235-B061266CAA96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditSuisse.Core", "..\CreditSuisse.Core\CreditSuisse.Core.csproj", "{B88945DA-64AC-4C96-B324-5D34B7F7E1C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48D82BB9-668B-4FFF-9235-B061266CAA96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48D82BB9-668B-4FFF-9235-B061266CAA96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48D82BB9-668B-4FFF-9235-B061266CAA96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48D82BB9-668B-4FFF-9235-B061266CAA96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B88945DA-64AC-4C96-B324-5D34B7F7E1C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B88945DA-64AC-4C96-B324-5D34B7F7E1C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B88945DA-64AC-4C96-B324-5D34B7F7E1C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B88945DA-64AC-4C96-B324-5D34B7F7E1C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A13D671B-7123-431C-82F8-78A309CF36BC}
+	EndGlobalSection
+EndGlobal

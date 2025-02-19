@@ -1,0 +1,11 @@
+C:\CreditSuisse\CreditSuisse.Core\obj\Debug\net8.0\CreditSuisse.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\CreditSuisse\CreditSuisse.Core\obj\Debug\net8.0\CreditSuisse.Core.AssemblyInfoInputs.cache
+C:\CreditSuisse\CreditSuisse.Core\obj\Debug\net8.0\CreditSuisse.Core.AssemblyInfo.cs
+C:\CreditSuisse\CreditSuisse.Core\obj\Debug\net8.0\CreditSuisse.Core.csproj.CoreCompileInputs.cache
+C:\CreditSuisse\CreditSuisse.Core\bin\Debug\net8.0\CreditSuisse.Core.deps.json
+C:\CreditSuisse\CreditSuisse.Core\bin\Debug\net8.0\CreditSuisse.Core.dll
+C:\CreditSuisse\CreditSuisse.Core\bin\Debug\net8.0\CreditSuisse.Core.pdb
+C:\CreditSuisse\CreditSuisse.Core\obj\Debug\net8.0\CreditSuisse.Core.dll
+C:\CreditSuisse\CreditSuisse.Core\obj\Debug\net8.0\refint\CreditSuisse.Core.dll
+C:\CreditSuisse\CreditSuisse.Core\obj\Debug\net8.0\CreditSuisse.Core.pdb
+C:\CreditSuisse\CreditSuisse.Core\obj\Debug\net8.0\ref\CreditSuisse.Core.dll
